@@ -5,7 +5,7 @@
 #define uzywajac using
 #define przestrzeni namespace
 
-/* Definiowanie typÛw zmiennych */
+/* Definiowanie typ√≥w zmiennych */
 #define calkowita int
 #define pustka void
 #define podwojna double
@@ -28,7 +28,7 @@
 #define ustawlokalne setlocale
 #define LC_TYPC LC_CTYPE
 
-/* Definiowanie innych s≥Ûw kluczowy*/
+/* Definiowanie innych s≈Ç√≥w kluczowy*/
 #define jesli if
 #define inaczej else
 #define dla for
