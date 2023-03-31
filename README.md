@@ -1,4 +1,4 @@
-# Polski C++
+![Logo](https://i.imgur.com/Vu07ij8.png "Polski-C++ logo")
 Biblioteka dla kompilatora MinGW pozwalająca na pisanie podstawowego kodu C++ w języku polskim.
 
 ## Instalacja
