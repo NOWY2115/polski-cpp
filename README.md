@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/Vu07ij8.png "Polski-C++ logo")
+![Logo](https://i.imgur.com/t9A3Q7W.png "Polski-C++ logo")
 ---
 
 *Polski-C++* to biblioteka dla kompilatora MinGW pozwalająca na pisanie podstawowego kodu C++ w języku polskim.
@@ -13,6 +13,6 @@ Po pobraniu i ewentualnym wypakowaniu pliku polskicpp.h należy odnaleźć folde
 
 ## Opis
 Jak na razie jest to projekt w fazie wstępnej, który z czasem będzie rozwijany.
-Ma on za zadanie pomóc we wstępnym tłumaczeniu niektórych funkcjonalności języka C++ nowym programistom, szczególnie tym, którzy nie opanowali jeszcze całkiem dobrze języka angielskiego
+Ma on za zadanie pomóc we wstępnym tłumaczeniu niektórych funkcjonalności języka C++ nowym programistom, szczególnie tym, którzy nie opanowali jeszcze całkiem dobrze języka angielskiego.
 
 ---
