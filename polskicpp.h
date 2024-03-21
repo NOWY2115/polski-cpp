@@ -16,6 +16,7 @@
 #define prawda true
 #define falsz false
 #define nieprzypisane unsigned
+#define jebacKomste auto
 
 /* Definiowanie funkcji */
 #define koniecl endl
