@@ -16,7 +16,9 @@
 #define prawda true
 #define falsz false
 #define nieprzypisane unsigned
-#define jebacKomste auto
+#define automatyczna auto
+#define struktura struct
+#define klasa class
 
 /* Definiowanie funkcji */
 #define koniecl endl
@@ -28,6 +30,21 @@
 #define calkowita int
 #define ustawlokalne setlocale
 #define LC_TYPC LC_CTYPE
+
+/* Funkcje trygonometryczne */
+#define sinus sin
+#define cosinus cos
+#define tangens tan
+
+/* Potęgi */
+#define potega pow
+#define pierwiastekKwadratowy sqrt
+#define pierwiastekSzescienny cbrt
+
+/* Zaokrąglanie */
+#define zaokrDoGory ceil
+#define zaokrDoDolu floor
+#define zaokraglij round
 
 /* Definiowanie innych słów kluczowy*/
 #define jesli if
